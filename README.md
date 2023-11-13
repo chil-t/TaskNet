@@ -11,5 +11,10 @@ Click on the computer and work along side your character
 Click on your character to end todays session
   - Shows summary
 
+Summary
+- total number of pomodoros completed
+- total time worked
+- total break time
+
 # Project Focus
 Creating reusable components
